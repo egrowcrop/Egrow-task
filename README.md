@@ -9,7 +9,7 @@
 
 **Agro Task Log v2.0** is a complete agricultural management system for farms. Track daily tasks, manage inventory (fertilizers, chemicals, machinery), and calculate costs automatically. Works offline as a Progressive Web App (PWA).
 
-**Live Demo:** https://egrowcrop.github.io/Egrow-task-log/
+**Live Demo:** https://egrowcrop.github.io/Egrow-task/
 
 ---
 
